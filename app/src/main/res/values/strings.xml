@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Movie Database</string>
+    <string name="no_info">Could not download information</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="comma_separator">\", \"</string>
+    <string name="show_from">Show from:</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="end_at">End at:</string>
+</resources>
